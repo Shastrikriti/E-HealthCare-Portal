@@ -1,1 +1,2 @@
 # E-HealthCare-Portal
+E – HealthCare portal will be like in an online Healthcare Management service provider with easy to use customizable options. The application is accessible from anywhere for Admin, Doctor and End Users of the hospital in private or at desktops or tablets etc. it will basically lessen the manual work and improves the quality of maintaining records and other information related to doctors or patients etc. It reduces time frame in adding any info related to hospital and thereby reduce the complexity too. 
